@@ -169,7 +169,7 @@ This project is created for educational purposes. Feel free to use it for learni
 
 GitHub: [@MeetBataviya13](https://github.com/MeetBataviya13)
 
-Project Link: [https://github.com/MeetBataviya13/ipl-2022-analysis](https://github.com/MeetBataviya13/ipl-2022-analysis)
+Project Link: [https://github.com/MeetBataviya13/ipl-2022-analysis](https://github.com/MeetBataviya13/ipl-analysis)
 
 ---
 
