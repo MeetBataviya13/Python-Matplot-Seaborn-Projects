@@ -131,8 +131,8 @@ Jupyter Notebook
 1. Clone the repository
 
 ```bash
-git clone https://github.com/MeetBataviya13/ipl-2022-analysis.git
-cd ipl-2022-analysis
+git clone https://github.com/MeetBataviya13/Python-Matplot-Seaborn-Projects.git
+cd ipl-analysis
 ```
 
 2. Install required packages
@@ -169,7 +169,7 @@ This project is created for educational purposes. Feel free to use it for learni
 
 GitHub: [@MeetBataviya13](https://github.com/MeetBataviya13)
 
-Project Link: [https://github.com/MeetBataviya13/ipl-2022-analysis](https://github.com/MeetBataviya13/ipl-analysis)
+Project Link: [https://github.com/MeetBataviya13/Python-Matplot-Seaborn-Projects/ipl-analysis](https://github.com/MeetBataviya13/Python-Matplot-Seaborn-Projects/ipl-analysis)
 
 ---
 
