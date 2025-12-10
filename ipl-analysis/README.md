@@ -169,7 +169,7 @@ This project is created for educational purposes. Feel free to use it for learni
 
 GitHub: [@MeetBataviya13](https://github.com/MeetBataviya13)
 
-Project Link: [https://github.com/MeetBataviya13/Python-Matplot-Seaborn-Projects/ipl-analysis](https://github.com/MeetBataviya13/Python-Matplot-Seaborn-Projects/ipl-analysis)
+Project Link: [https://github.com/MeetBataviya13/Python-Matplot-Seaborn-Projects](https://github.com/MeetBataviya13/Python-Matplot-Seaborn-Projects)
 
 ---
 
